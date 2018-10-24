@@ -1,2 +1,2 @@
 # MyWebsite
-This code is a personal portfoilo
+This web page is a personal portfoilo
